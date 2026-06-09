@@ -1,3 +1,3 @@
 ## Hello
+- [Channel](https://youtube.com/@HolmfirthHighRobotics)
 # We build robots!
-If you want to see our channel 
